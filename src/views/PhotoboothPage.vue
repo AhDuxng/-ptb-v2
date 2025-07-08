@@ -1,6 +1,5 @@
 <script setup>
 import { ref, onUnmounted, computed, watch } from 'vue';
-import { useNotificationStore } from '@/stores/notification';
 import previewImage from '../assets/mascot-bear.png';
 import mascotBearLogo from '../assets/mascot-bear.png';
 
